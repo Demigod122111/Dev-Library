@@ -1,1 +1,9 @@
-https://drive.google.com/uc?export=download&id=1sQX9HfADVaLnCU8C_FiEGEUFgsEkIRu_ | Windows | 1.0.0 | Hunted In Space : Return To Utorone | https://demigod122111-dev-library.netlify.app/Return%20To%20Utorone/spaceship.png | 08/10/2022 | 08/10/2022 | exe | A simple space speedrun game I made one day when I was really, really bored. (Don't Expect Much);
+https://dev-library-database.comserver.repl.co/Return%20To%20Utorone/Hunted%20In%20Space%20%20Return%20To%20Utorone%20Setup.exe
+| Windows 
+| 1.0.0 
+| Hunted In Space : Return To Utorone 
+| https://demigod122111-dev-library.netlify.app/Return%20To%20Utorone/spaceship.png 
+| 08/10/2022 
+| 08/10/2022 
+| exe 
+| A simple space speedrun game I made one day when I was really, really bored. (Don't Expect Much);
