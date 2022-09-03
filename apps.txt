@@ -7,3 +7,15 @@ https://dev-library-database.comserver.repl.co/Return%20To%20Utorone/Hunted%20In
 | 08/10/2022 
 | exe 
 | A simple space speedrun game I made one day when I was really, really bored. (Don't Expect Much);
+
+
+https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/Juice%20Maker%20(Oreo.0).apk
+| Android (Oreo 8.0 Minimum) 
+| 1.0.0 
+| Juice Maker
+| https://demigod122111-dev-library.netlify.app/Return%20To%20Utorone/spaceship.png 
+| 09/01/2022 
+| 09/01/2022
+| apk 
+| When I need something of "value" to exchange with my baby sister;
+
