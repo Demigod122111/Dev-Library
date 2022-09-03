@@ -1,2 +1,2 @@
-https://demigod122111-dev-library.netlify.app/app.exe | Windows;
-https://demigod122111-dev-library.netlify.app/app2.exe | Android;
+https://demigod122111-dev-library.netlify.app/app.exe | Windows | 1.0.0;
+https://demigod122111-dev-library.netlify.app/app2.exe | Android | 1.0.1;
