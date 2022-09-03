@@ -13,7 +13,7 @@ https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/
 | Android (Oreo 8.0 Minimum) 
 | 1.0.0 
 | Juice Maker
-| https://demigod122111-dev-library.netlify.app/Return%20To%20Utorone/spaceship.png 
+| https://github.com/Demigod122111/Dev-Library/blob/main/Juice%20Maker/juices.png?raw=true
 | 09/01/2022 
 | 09/01/2022
 | apk 
