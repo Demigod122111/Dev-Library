@@ -1,2 +1,1 @@
-https://demigod122111-dev-library.netlify.app/app.exe | Windows | 1.0.0 | App | https://demigod122111-dev-library.netlify.app/app.png | 04/23/2022 | 09/01/2022 | An app made for windows 10 os;
-https://demigod122111-dev-library.netlify.app/app2.exe | Android | 1.0.1 | App2 | https://demigod122111-dev-library.netlify.app/app2.png | 05/31/2022 | 08/01/2022 | An app made for android os;
+https://drive.google.com/uc?export=download&id=1sQX9HfADVaLnCU8C_FiEGEUFgsEkIRu_ | Windows | 1.0.0 | App | https://demigod122111-dev-library.netlify.app/Return%20To%20Utorone/spaceship.png | 08/10/2022 | 08/10/2022 | A simple space speedrun game I made one day when I was really, really bored. (Don't Expect Much);
