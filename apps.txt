@@ -1,6 +1,6 @@
 https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Demigod122111%20Dev%20Library.exe
 | Windows 
-| 1.0.0 
+| 1.0.1 
 | Demigod122111 Dev Library
 | https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library/code.png 
 | 09/02/2022 
