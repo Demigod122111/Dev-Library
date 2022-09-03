@@ -19,3 +19,14 @@ https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/
 | apk 
 | When I need something of "value" to exchange with my baby sister;
 
+
+https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/Juice%20Maker%20(Oreo.0).apk
+| Android (Oreo 8.0 Minimum) 
+| 1.0.0 
+| Juice Maker 2
+| https://github.com/Demigod122111/Dev-Library/blob/main/Juice%20Maker/juices.png?raw=true
+| 09/01/2022 
+| 09/01/2022
+| apk 
+| When I need something of "value" to exchange with my baby sister;
+
