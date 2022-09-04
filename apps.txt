@@ -1,15 +1,20 @@
 https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Demigod122111%20Dev%20Library.exe
 | Windows 
-| 1.0.1 
+| 1.0.2 
 | Demigod122111 Dev Library
 | https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library/code.png 
 | 09/02/2022 
 | 09/03/2022
 | exe 
-| The offical Demigod122111 Dev Library Desktop App!
+| The Offical Demigod122111 Dev Library Desktop App!
 
   Updates:
-    - Added Colored Description
+    1.0.1:
+      - Added Colored Description
+    
+    1.0.2:
+      - Added Version Display
+      - Add Download Progress Display
 | Cyan;
 
 https://dev-library-database.comserver.repl.co/Return%20To%20Utorone/Hunted%20In%20Space%20%20Return%20To%20Utorone%20Setup.exe
