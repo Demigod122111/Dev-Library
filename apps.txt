@@ -47,5 +47,5 @@ https://dev-library-database.comserver.repl.co/Mirum/Mirum 1.0.jar
 | 08/18/2022 
 | 08/18/2022
 | jar 
-| In the world of Mirum there's only one law, "The Law Of The Jungle"
-Cultivate to immortality and rule as the strongest;
+| In the world of Mirum there's only one law, "The Law Of The Jungle"!
+Cultivate to immortality and rule as the strongest.;
