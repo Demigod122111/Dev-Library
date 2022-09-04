@@ -43,7 +43,7 @@ https://dev-library-database.comserver.repl.co/Mirum/Mirum 1.0.jar
 | Mineraft (Forge 1.18.2)
 | 1.0
 | Mirum
-| https://github.com/Demigod122111/Dev-Library/blob/main/no-image.png?raw=true
+| https://github.com/Demigod122111/Dev-Library/blob/main/no-di.png?raw=true
 | 08/18/2022 
 | 08/18/2022
 | jar 
