@@ -1,10 +1,10 @@
 https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Demigod122111%20Dev%20Library.exe
 | Windows 
-| 2.0.0
+| 2.0.1
 | Demigod122111 Dev Library
 | https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library/code.png 
 | 09/02/2022 
-| 09/05/2022
+| 09/08/2022
 | exe 
 | The Offical Demigod122111 Dev Library Desktop App!
 
@@ -23,7 +23,10 @@ https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Dem
     2.0.0:
       - Added an official updater
       - Added the ability to refresh app list without restarting the entire application
-| Cyan;
+      
+    2.0.1:
+      - Fixed Update System Bugs
+| Gold;
 
 https://dev-library-database.comserver.repl.co/Return%20To%20Utorone/Hunted%20In%20Space%20%20Return%20To%20Utorone%20Setup.exe
 | Windows 
@@ -45,7 +48,7 @@ https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/
 | 09/01/2022
 | apk 
 | When I need something of "value" to exchange with my baby sister
-| Red;
+| GhostWhite;
 
 https://dev-library-database.comserver.repl.co/Mirum/Mirum 1.0.jar
 | Minecraft (Forge 1.18.2)
