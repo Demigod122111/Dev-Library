@@ -8,23 +8,23 @@ https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Dem
 | exe 
 | The Offical Demigod122111 Dev Library Desktop App!
        
-  Updates:
-    1.0.1:
+  Updates:    
+    1.0.1:    
       - Added Colored Description
-    
-    1.0.2:
-      - Added Version Display
+        
+    1.0.2:    
+      - Added Version Display    
       - Added Download Progress Display
-    
-    1.0.3:
-      - Improved Icon Display
+        
+    1.0.3:    
+      - Improved Icon Display    
       - Increased Image Depth
-    
-    2.0.0:
-      - Added an official updater
-      - Added the ability to refresh app list without restarting the entire application
+        
+    2.0.0:    
+      - Added an official updater    
+      - Added the ability to refresh app list without restarting the entire application    
       
-    2.0.1:
+    2.0.1:    
       - Fixed Update System Bugs
 | Gold;
 
