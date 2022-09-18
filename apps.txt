@@ -6,8 +6,8 @@ https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Dem
 | 09/02/2022 
 | 09/08/2022
 | exe 
-| The Offical Demigod122111 Dev Library Desktop App!
-       
+| The Offical Demigod122111 Dev Library Desktop App!    
+        
   Updates:    
     1.0.1:    
       - Added Colored Description
