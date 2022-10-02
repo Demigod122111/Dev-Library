@@ -73,3 +73,14 @@ https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
 | 07/07/2022
 | exe 
 | An attempt at remaking python's turtle in c# for non-programmers;
+
+https://dev-library-database.comserver.repl.co/Self Creation/Self%20Creation.exe
+| Windows
+| 1.0
+| Self Creation
+| https://github.com/Demigod122111/Dev-Library/blob/main/Self Creation/prototype.png?raw=true
+| 10/02/2022
+| 10/02/2022
+| exe 
+| A simple Graphical Display that creates itself.    
+WARNING: KEEP TASK MANAGER NEAR;
