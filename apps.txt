@@ -82,4 +82,5 @@ https://dev-library-database.comserver.repl.co/Self Creation/Self%20Creation.exe
 | 10/02/2022
 | 10/02/2022
 | exe 
-| A simple Graphical Display that creates itself. (WARNING: KEEP TASK MANAGER NEAR);
+| A simple Graphical Display that creates itself. (WARNING: KEEP TASK MANAGER NEAR)
+| green;
