@@ -84,3 +84,13 @@ https://dev-library-database.comserver.repl.co/Self Creation/Self%20Creation.exe
 | exe 
 | A simple Graphical Display that creates itself. (WARNING: KEEP TASK MANAGER NEAR)
 | YellowGreen;
+
+https://dev-library-database.comserver.repl.co/Math Survival/Math%20Survival.exe
+| Windows
+| 1.0
+| Math Survival
+| https://github.com/Demigod122111/Dev-Library/blob/main/Math Survival/think.png?raw=true
+| 10/02/2022
+| 10/02/2022
+| exe 
+| A basic math survival game with unlimited stages that is bound to get your brain working! (Has highscore system);
