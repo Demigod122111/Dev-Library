@@ -94,3 +94,13 @@ https://dev-library-database.comserver.repl.co/Math Survival/Math%20Survival.exe
 | 10/02/2022
 | exe 
 | A basic math survival game with unlimited stages that is bound to get your brain working! (Has highscore system);
+
+https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.exe
+| Windows
+| 1.0
+| Open AI - Standalone
+| https://raw.githubusercontent.com/Demigod122111/Dev-Library/main/Open%20AI/OpenAI-Icon.ico
+| 10/14/2022
+| 10/14/2022
+| exe 
+| A desktop version of <a href="https://beta.openai.com/">this AI</a>;
