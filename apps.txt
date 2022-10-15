@@ -103,4 +103,4 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 | 10/14/2022
 | 10/14/2022
 | exe 
-| A desktop version of <a href="https://beta.openai.com/">this AI</a>;
+| A desktop version of "https://beta.openai.com/";
