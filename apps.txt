@@ -104,3 +104,13 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 | 10/14/2022
 | exe 
 | A desktop version of "https://beta.openai.com/";
+
+https://dev-library-database.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
+| Windows
+| 1.0
+| Whatsapp Web - Desktop
+| https://github.com/Demigod122111/Dev-Library/blob/main/Whatsapp/Whatsapp%20Icon.png?raw=true
+| 10/16/2022
+| 10/16/2022
+| exe 
+| The unoffical desktop app for Whatsapp Web;
