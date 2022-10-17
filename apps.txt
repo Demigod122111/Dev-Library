@@ -55,7 +55,7 @@ https://dev-library-database.comserver.repl.co/Juice%20Maker/Oreo%20EightPointO/
 
 https://dev-library-database.comserver.repl.co/Mirum/Mirum 1.0.jar
 | Minecraft (Forge 1.18.2)
-| 1.0
+| 1.0.0
 | Mirum
 | https://github.com/Demigod122111/Dev-Library/blob/main/java.png?raw=true
 | 08/18/2022 
@@ -66,7 +66,7 @@ Cultivate to immortality and rule as the strongest.;
 
 https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
 | Windows
-| 1.0
+| 1.0.0
 | Turtle
 | https://github.com/Demigod122111/Dev-Library/blob/main/Turtle/sea-turtle.png?raw=true
 | 07/07/2022
@@ -76,7 +76,7 @@ https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
 
 https://dev-library-database.comserver.repl.co/Self Creation/Self%20Creation.exe
 | Windows
-| 1.0
+| 1.0.0
 | Self Creation
 | https://github.com/Demigod122111/Dev-Library/blob/main/Self Creation/prototype.png?raw=true
 | 10/02/2022
@@ -87,7 +87,7 @@ https://dev-library-database.comserver.repl.co/Self Creation/Self%20Creation.exe
 
 https://dev-library-database.comserver.repl.co/Math Survival/Math%20Survival.exe
 | Windows
-| 1.0
+| 1.0.0
 | Math Survival
 | https://github.com/Demigod122111/Dev-Library/blob/main/Math Survival/think.png?raw=true
 | 10/02/2022
@@ -97,7 +97,7 @@ https://dev-library-database.comserver.repl.co/Math Survival/Math%20Survival.exe
 
 https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.exe
 | Windows
-| 1.0
+| 1.0.0
 | Open AI - Standalone
 | https://raw.githubusercontent.com/Demigod122111/Dev-Library/main/Open%20AI/OpenAI-Icon.ico
 | 10/14/2022
@@ -107,7 +107,7 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 
 https://dev-library-database.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
 | Windows
-| 1.0
+| 1.0.1
 | Whatsapp Web - Desktop
 | https://github.com/Demigod122111/Dev-Library/blob/main/Whatsapp/Whatsapp%20Icon.png?raw=true
 | 10/16/2022
