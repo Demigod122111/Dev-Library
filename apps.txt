@@ -105,7 +105,7 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 | exe 
 | A desktop version of "https://beta.openai.com/";
 
-https://dev-library-database.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
+https://Dev-Library-Database-2.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
 | Windows
 | 1.0.1
 | Whatsapp Web - Desktop
