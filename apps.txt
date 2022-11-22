@@ -121,6 +121,6 @@ https://Dev-Library-Database-2.comserver.repl.co/Skyward%20Bound/Install%20Skywa
 | Skyward Bound
 | https://github.com/Demigod122111/Dev-Library/blob/main/Skyward%20Bound/Skyward%20Bound%20Logo.png?raw=true
 | 11/15/2022
-| 11/17/2022
+| 11/22/2022
 | exe 
 | A simple yet fun parkour game where the player has to use their gaming skills and in-game abilities at their disposal to reach and complete each level;
