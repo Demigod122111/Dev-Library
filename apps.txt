@@ -138,9 +138,21 @@ https://Dev-Library-Database-2.comserver.repl.co/Posmartial/Posmartial.exe
 https://Dev-Library-Database-2.comserver.repl.co/forf/FOR-F Launcher.exe
 | Windows
 | 1.0.0
-| For-F
+| For-F Launcher
 | https://github.com/Demigod122111/Dev-Library/blob/main/forf/For-F.png?raw=true
 | 01/03/2023
 | 01/03/2023
 | exe 
-| Fake or Real Friends (For-F)? Play together with friends or strangers. Voice chat included. Toll or Cooperate? The choice is your's;
+| The Offical Launcher Of FOR-F
+  
+  Fake or Real Friends (For-F)? Play together with friends or strangers. Voice chat included. Toll or Cooperate? The choice is your's;
+
+https://FOR-F-Database.comserver.repl.co/For-F.apk
+| Windows
+| 2.0.0
+| For-F
+| https://github.com/Demigod122111/Dev-Library/blob/main/forf/For-F.png?raw=true
+| 01/04/2023
+| 01/13/2023
+| exe 
+| Android Version of FOR-F;
