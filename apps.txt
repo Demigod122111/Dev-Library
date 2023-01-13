@@ -148,11 +148,11 @@ https://Dev-Library-Database-2.comserver.repl.co/forf/FOR-F Launcher.exe
   Fake or Real Friends (For-F)? Play together with friends or strangers. Voice chat included. Toll or Cooperate? The choice is your's;
 
 https://FOR-F-Database.comserver.repl.co/For-F.apk
-| Windows
+| Android
 | 2.0.0
-| For-F
+| For-F (Android)
 | https://github.com/Demigod122111/Dev-Library/blob/main/forf/For-F.png?raw=true
 | 01/04/2023
 | 01/13/2023
-| exe 
+| apk 
 | Android Version of FOR-F;
