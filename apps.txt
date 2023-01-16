@@ -149,10 +149,10 @@ https://Dev-Library-Database-2.comserver.repl.co/forf/FOR-F Launcher.exe
 
 https://FOR-F-Database.comserver.repl.co/For-F.apk
 | Android
-| 2.0.0
+| 3.0.0
 | For-F (Android)
 | https://github.com/Demigod122111/Dev-Library/blob/main/forf/For-F.png?raw=true
 | 01/04/2023
-| 01/13/2023
+| 01/15/2023
 | apk 
 | Android Version of FOR-F;
