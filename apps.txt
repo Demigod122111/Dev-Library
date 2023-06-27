@@ -103,7 +103,7 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 | 10/14/2022
 | 10/14/2022
 | exe 
-| A desktop version of "<a href='https://beta.openai.com/'>OpenAI</a>";
+| A desktop version of "<a href='https://beta.openai.com/' style='text-decoration: none;'>OpenAI</a>";
 
 https://Dev-Library-Database-2.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
 | Windows
