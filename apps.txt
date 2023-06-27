@@ -67,7 +67,7 @@ Cultivate to immortality and rule as the strongest.;
 _blank#https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
 | Windows
 | 1.0.0
-| Turtle
+| Turtle [BROKEN]
 | https://github.com/Demigod122111/Dev-Library/blob/main/Turtle/sea-turtle.png?raw=true
 | 07/07/2022
 | 07/07/2022
