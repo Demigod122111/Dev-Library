@@ -64,7 +64,7 @@ https://dev-library-database.comserver.repl.co/Mirum/Mirum 1.0.jar
 | In the world of Mirum there's only one law, "The Law Of The Jungle"!
 Cultivate to immortality and rule as the strongest.;
 
-https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
+_blank#https://dev-library-database.comserver.repl.co/Turtle/Turtle%20Setup.exe
 | Windows
 | 1.0.0
 | Turtle
@@ -103,7 +103,7 @@ https://dev-library-database.comserver.repl.co/Open%20AI/Open%20AI%20Standalone.
 | 10/14/2022
 | 10/14/2022
 | exe 
-| A desktop version of "https://beta.openai.com/";
+| A desktop version of "<a href='https://beta.openai.com/'>OpenAI</a>";
 
 https://Dev-Library-Database-2.comserver.repl.co/Whatsapp/Whatsapp%20Web.exe
 | Windows
