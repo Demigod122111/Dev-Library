@@ -1,12 +1,23 @@
-https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Demigod122111%20Dev%20Library.exe
+_blank/Demigod122111%20Dev%20Library%20Remake.exe
 | Windows 
-| 3.0.0
-| Demigod122111 Dev Library
+| 0.0.0
+| Demigod122111 Dev Library (Remake)
 | https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library/code.png 
 | 09/02/2022 
 | 09/08/2022
 | exe 
-| The Offical Demigod122111 Dev Library Desktop App!    
+| The Offical Demigod122111 Dev Library Desktop App! [2023-Present]
+| Cyan;
+
+https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Demigod122111%20Dev%20Library.exe
+| Windows 
+| 3.0.0
+| Demigod122111 Dev Library [Depricated]
+| https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library/code.png 
+| 09/02/2022 
+| 09/08/2022
+| exe 
+| The Offical Demigod122111 Dev Library Desktop App!  [2022-2023]
         
   Updates:    
     1.0.1:    
@@ -29,7 +40,7 @@ https://dev-library-database.comserver.repl.co/Demigod122111%20Dev%20Library/Dem
     
     3.0.0:    
       - Added a link to the official website
-| Cyan;
+| DarkCyan;
 
 https://dev-library-database.comserver.repl.co/Return%20To%20Utorone/Hunted%20In%20Space%20%20Return%20To%20Utorone%20Setup.exe
 | Windows 
