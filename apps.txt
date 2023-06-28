@@ -2,7 +2,7 @@ _blank/Demigod122111%20Dev%20Library%20Remake.exe
 | Windows 
 | 0.0.0
 | Demigod122111 Dev Library (Remake)
-| https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library%20/Remake/Dev%20Library.png 
+| https://demigod122111-dev-library.netlify.app/Demigod122111%20Dev%20Library%20Remake/Dev%20Library.png 
 | Not Released
 | N/A
 | exe 
